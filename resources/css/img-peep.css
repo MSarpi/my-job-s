@@ -1,0 +1,23 @@
+:root {
+    --color-bg-img: rgb(48, 48, 48);
+}
+.img-peep{
+    filter: drop-shadow(15px 15px 5px var(--color-bg-img))
+}
+
+.container-header{
+    height: 100vh;
+}
+
+.container-header .img{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    filter: brightness(0.4);
+    object-fit: cover;
+
+}
+
+.z-dropdown {
+    z-index: -1; /* Valor alto para asegurar que esté por encima de otros elementos */
+}
