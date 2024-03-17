@@ -14,8 +14,6 @@ si tienes alguna duda o pregunta, contáctame acá: Miguel.sarpi@gmail.com.
 
 # Para usar este proyecto adecuadamente necesitas tener instalado:
 
-estos pasos son adecuados para su funcionamiento en windows, pero fue creado mediante docker con WSL con una distribución de ubuntu y "Sail", en las próximas actualizaciones traeré los pasos a pasos para que puedan usarlo de esa manera.
-
 [PHP v8.1.12 o superior](https://www.php.net/downloads)  
 [Laravel v10 o superior](https://laravel.com/)  
 [composer v2.4.4 o superior](https://getcomposer.org/)  
